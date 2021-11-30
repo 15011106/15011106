@@ -3,6 +3,7 @@
 ### I'm studying to become a creative backend developer.
 
 - 2015.2 ~ 2019.2 Sejong University, Department of Computer and Information Security
+- 2018.1 ~ 2019.2 Sejong University, Security Factorial (KUCIS)
 - 2019.3 ~ 2021.6 Capital Defense Command, Network Management Officer (Reserve Officers' Training Corps)
 
 
