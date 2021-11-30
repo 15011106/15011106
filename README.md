@@ -23,7 +23,7 @@
   
 ## Interest 👀
 ✔ Java & Python<br>
-✔ secure coding<br>
+✔ Secure Coding<br>
 ✔ DevOps
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F15011106&count_bg=%2335D1D6&title_bg=%23212020&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)  
