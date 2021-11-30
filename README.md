@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋
+
+- 2015.2 ~ 2019.2 Sejong University, Department of Computer and Information Security
+- 2019.3 ~ 2021.6 Capital Defense Command, Network Management Officer (Reserve Officers' Training Corps)
 
 
 <h3 align="center"><b> Tech Stack  </b></h3>
@@ -13,8 +16,16 @@
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-
-
+  
+  
+  
+## Interest 👀
+✔ Java & Python<br>
+✔ secure coding<br>
+✔ DevOps
+  
+  
+![Minhyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=15011106&show_icons=true&theme=default)
 
 <!--
 **15011106/15011106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
