@@ -7,10 +7,12 @@
 
   ## Experience
   **Backend Developer** @ Gbike Inc. • Feb 2023 - Present
+  - Develop and maintain TCP servers managing 100K+ IoT devices with real-time communication
+  - Work on geofence & map processing system handling location data
 
   ## Tech Stack
-  **Languages:** Go, Java, Python
-  **Infrastructure:** Kubernetes, Docker, AWS (Lambda, Batch, ECR)
+  **Languages:** Go(primary), Java, Python
+  **Infrastructure:** Kubernetes, Docker, AWS
   **Data Systems:** Kafka, Redis, Elasticsearch, MySQL, MongoDB
   **Tools:** GitLab CI/CD, pprof, Grafana
 
@@ -23,5 +25,3 @@
   Location: Seoul, Korea → Open to opportunities
 
   ---
-
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=15011106&show_icons=true&theme=default)
