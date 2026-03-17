@@ -11,13 +11,10 @@
   - Work on geofence & map processing system handling location data
 
   ## Tech Stack
-  **Languages:** Go(primary), Java, Python
-  
-  **Infrastructure:** Kubernetes, Docker, AWS
-  
-  **Data Systems:** Kafka, Redis, Elasticsearch, MySQL, MongoDB
-  
-  **Tools:** GitLab CI/CD, pprof, Grafana
+  - Languages: Go(primary), Java, Python
+  - Infrastructure: Kubernetes, Docker, AWS
+  - Data Systems: Kafka, Redis, Elasticsearch, MySQL, MongoDB
+  - Tools: GitLab CI/CD, pprof, Grafana
 
   ## Education
   **B.S. Computer and Information Security**
