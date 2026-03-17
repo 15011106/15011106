@@ -11,6 +11,6 @@
   - Backend Developer @ Gbike Inc. (2023 - Present)
   - B.S. Computer Science @ Sejong University (2019)
 
-  📧 kmih9602@gmail.com • 🇰🇷→🇩🇪
+  📧 kmih9602@gmail.com
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=15011106&show_icons=true&theme=default)
