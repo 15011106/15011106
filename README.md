@@ -12,8 +12,11 @@
 
   ## Tech Stack
   **Languages:** Go(primary), Java, Python
+  
   **Infrastructure:** Kubernetes, Docker, AWS
+  
   **Data Systems:** Kafka, Redis, Elasticsearch, MySQL, MongoDB
+  
   **Tools:** GitLab CI/CD, pprof, Grafana
 
   ## Education
