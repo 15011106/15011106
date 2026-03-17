@@ -1,16 +1,42 @@
-# Minhyeok Kwon
+  Backend Engineer
+  Currently building infrastructure for 100K+ IoT devices at Gbike.
 
-  Backend Engineer • Go, Kubernetes, AWS
+  ---
 
-  Currently building systems for 100K+ IoT devices at Gbike.
+  ## Experience
 
-  ### Stack
-  Go • Java • Kubernetes • Docker • Kafka • Redis • AWS
+  **Backend Developer** @ Gbike Inc. • Feb 2023 - Present
 
-  ### Experience
-  - Backend Developer @ Gbike Inc. (2023 - Present)
-  - B.S. Computer Science @ Sejong University (2019)
+  ---
 
-  📧 kmih9602@gmail.com
+  ## Tech Stack
+
+  **Languages**
+  Go, Java, Python
+
+  **Infrastructure**
+  Kubernetes, Docker, AWS (Lambda, Batch, ECR)
+
+  **Data Systems**
+  Kafka, Redis, Elasticsearch, MySQL, MongoDB
+
+  **Tools**
+  GitLab CI/CD, pprof, Grafana
+
+  ---
+
+  ## Education
+
+  **B.S. Computer and Information Security**
+  Sejong University • 2015 - 2019
+
+  ---
+
+  ## Contact
+
+  Email: kmih9602@gmail.com
+  Location: Seoul, Korea → Open to opportunities
+
+  ---
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=15011106&show_icons=true&theme=default)
