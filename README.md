@@ -1,7 +1,7 @@
  # Minhyeok Kwon
 
   Backend Engineer
-  Currently building infrastructure for 100K+ IoT devices and processing 15K requests/min at Gbike.
+  Currently building infrastructure for 100K+ IoT devices at Gbike.
 
   ---
 
