@@ -11,7 +11,7 @@
   - Work on geofence & map processing system handling location data
 
   ## Tech Stack
-  - Languages: Go(primary), Java, Python
+  - Languages: Go
   - Infrastructure: Kubernetes, Docker, AWS
   - Data Systems: Kafka, Redis, Elasticsearch, MySQL, MongoDB
   - Tools: GitLab CI/CD, pprof, Grafana
